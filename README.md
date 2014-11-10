@@ -5,15 +5,15 @@ openui5 mobile runtime (version 1.24.3)
 
 A bower package for openui5 mobile runtime - optimized (without dbg files)
 
-# Install
+## Install
 
 > bower install openui5_runtime_mobile
 
 Then add the following to your bootstrap (index.html):
 
-<script ... src="/bower_components/openui5_runtime_mobile/sap-ui-core.js"  ...></script>
+> <script ... src="/bower_components/openui5_runtime_mobile/sap-ui-core.js"  ...></script>
 
-# License
+## License
 
 The MIT License
 
