@@ -1,0 +1,20 @@
+{
+  "name": "openui5_runtime_mobile",
+  "version": "1.24.3",
+  "authors": [
+    "adi.biton <adi.biton@sap.com>"
+  ],
+  "description": "openui5 runtime for mobile clients",
+  "main": "sap-ui-core.js",
+  "keywords": [
+    "openui5"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
